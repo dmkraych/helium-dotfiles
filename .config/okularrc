@@ -1,0 +1,26 @@
+[Desktop Entry]
+FullScreen=false
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[MainWindow]
+2 screens: Height=770
+2 screens: Width=879
+2 screens: XPosition=1926
+2 screens: YPosition=32
+DP-0 HDMI-0=DP-0
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAQAAAAAAAABaAAACyvwCAAAAAfsAAAAcAG8AawB1AGwAYQByAF8AcwBpAGQAZQBiAGEAcgEAAAA4AAACygAAANwA///+AAADDwAAAsoAAAAEAAAABAAAAAgAAAAI/AAAAAMAAAABAAAAAQAAACwAcQB1AGkAYwBrAEEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgIAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/2.1_Ankle_Biters_-_Full_Size_Printable.pdf
+File2[$e]=$HOME/Downloads/Derik Kraych- Offer letter - REVISED.pdf
+File3[$e]=$HOME/Documents/BMCC/Kraych New Acct Request9.18.23.pdf
+File4[$e]=$HOME/Downloads/Brick_1.7.pdf
+Name1[$e]=2.1_Ankle_Biters_-_Full_Size_Printable.pdf
+Name2[$e]=Derik Kraych- Offer letter - REVISED.pdf
+Name3[$e]=Kraych New Acct Request9.18.23.pdf
+Name4[$e]=Brick_1.7.pdf

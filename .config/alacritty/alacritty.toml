@@ -1,0 +1,95 @@
+import = ["/home/main/.config/alacritty/catppuccin/catppuccin-latte.yml"]
+
+[font.normal]
+family = "FiraCode Nerd Font"
+style = "Regular"
+
+# [schemes.sourcerer.bright]
+# black = "#181818"
+# blue = "#90b0d1"
+# cyan = "#87ceeb"
+# green = "#b1d631"
+# magenta = "#8181a6"
+# red = "#ff6a6a"
+# white = "#c1cdc1"
+# yellow = "#ff9800"
+# 
+# [schemes.sourcerer.cursor]
+# cursor = "#c2c2b0"
+# text = "#c2c2b0"
+# 
+# [schemes.sourcerer.normal]
+# black = "#111111"
+# blue = "#6688aa"
+# cyan = "#528b8b"
+# green = "#719611"
+# magenta = "#8f6f8f"
+# red = "#aa4450"
+# white = "#d3d3d3"
+# yellow = "#cc8800"
+# 
+# [schemes.sourcerer.primary]
+# background = "#222222"
+# foreground = "#c2c2b0"
+# 
+# [schemes.tomorrow_night.bright]
+# black = "#666666"
+# blue = "#81a2be"
+# cyan = "#54ced6"
+# green = "#9ec400"
+# magenta = "#b77ee0"
+# red = "#ff3334"
+# white = "#282a2e"
+# yellow = "#f0c674"
+# 
+# [schemes.tomorrow_night.cursor]
+# cursor = "#ffffff"
+# text = "#1d1f21"
+# 
+# [schemes.tomorrow_night.normal]
+# black = "#1d1f21"
+# blue = "#81a2be"
+# cyan = "#70c0ba"
+# green = "#b5bd68"
+# magenta = "#b294bb"
+# red = "#cc6666"
+# white = "#373b41"
+# yellow = "#e6c547"
+# 
+# [schemes.tomorrow_night.primary]
+# background = "#1d1f21"
+# foreground = "#c5c8c6"
+# 
+# [schemes.zenburn.bright]
+# black = "#555555"
+# blue = "#87ceeb"
+# cyan = "#ffd700"
+# green = "#55ff55"
+# magenta = "#ff55ff"
+# red = "#ff5555"
+# white = "#ffffff"
+# yellow = "#ffff55"
+# 
+# [schemes.zenburn.cursor]
+# cursor = "#cc99ff"
+# text = "#000000"
+# 
+# [schemes.zenburn.normal]
+# black = "#4d4d4d"
+# blue = "#96853f"
+# cyan = "#ffa0a0"
+# green = "#98f898"
+# magenta = "#ffdead"
+# red = "#bb0000"
+# white = "#f5deb3"
+# yellow = "#f0e68c"
+# 
+# [schemes.zenburn.primary]
+# background = "#333333"
+# bright_background = "#555555"
+# bright_foreground = "#ffffff"
+# foreground = "#ffffff"
+
+[window]
+opacity = 1.0
+title = "alacritty"

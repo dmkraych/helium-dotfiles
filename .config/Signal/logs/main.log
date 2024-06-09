@@ -1,0 +1,33 @@
+{"level":40,"time":"2023-10-28T03:12:33.231Z","msg":"MainSQL: getAllUnprocessedAndIncrementAttempts: deleting 1 invalid unprocessed envelopes"}
+{"level":30,"time":"2023-10-28T03:43:45.008Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1902,\"height\":1037,\"x\":9,\"y\":34}"}
+{"level":30,"time":"2023-10-28T03:43:45.008Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2023-10-28T03:43:45.009Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2023-10-28T03:45:46.959Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1902,\"height\":1037,\"x\":9,\"y\":34}"}
+{"level":30,"time":"2023-10-28T03:45:46.959Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2023-10-28T03:45:46.960Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2023-10-28T03:46:15.812Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1902,\"height\":1037,\"x\":8,\"y\":33}"}
+{"level":30,"time":"2023-10-28T03:46:15.812Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2023-10-28T03:46:15.813Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2023-10-28T03:46:19.094Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1902,\"height\":1037,\"x\":9,\"y\":34}"}
+{"level":30,"time":"2023-10-28T03:46:19.094Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2023-10-28T03:46:19.095Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2023-10-28T03:46:23.848Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1902,\"height\":1037,\"x\":9,\"y\":34}"}
+{"level":30,"time":"2023-10-28T03:46:23.849Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2023-10-28T03:46:23.849Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2023-10-28T03:46:47.199Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1902,\"height\":1037,\"x\":9,\"y\":34}"}
+{"level":30,"time":"2023-10-28T03:46:47.199Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2023-10-28T03:46:47.200Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2023-10-28T03:47:44.263Z","msg":"MainSQL: deleteSentProtoRecipient: Deleting proto payload for timestamp 1698464818287"}
+{"level":30,"time":"2023-10-28T10:45:23.726Z","msg":"System tray service: setting unread count to 1"}
+{"level":30,"time":"2023-10-28T10:45:23.727Z","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2023-10-28T10:45:23.827Z","msg":"Approving request for permission 'notifications'"}
+{"level":30,"time":"2023-10-28T11:03:39.018Z","msg":"System tray service: setting unread count to 2"}
+{"level":30,"time":"2023-10-28T11:03:39.019Z","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2023-10-28T11:03:39.122Z","msg":"Approving request for permission 'notifications'"}
+{"level":30,"time":"2023-10-28T11:14:49.302Z","msg":"System tray service: setting unread count to 1"}
+{"level":30,"time":"2023-10-28T11:14:49.302Z","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2023-10-28T11:14:50.302Z","msg":"System tray service: setting unread count to 0"}
+{"level":30,"time":"2023-10-28T11:14:50.302Z","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2023-10-28T11:23:06.108Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1902,\"height\":1037,\"x\":9,\"y\":34}"}
+{"level":30,"time":"2023-10-28T11:23:06.108Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2023-10-28T11:23:06.108Z","msg":"config/set: Saved ephemeral config to disk"}

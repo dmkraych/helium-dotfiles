@@ -1,0 +1,6 @@
+2023/09/02-19:03:13.330 274f Creating DB /home/main/.config/Signal/IndexedDB/file__0.indexeddb.leveldb since it was missing.
+2023/09/02-19:03:13.344 274f Reusing MANIFEST /home/main/.config/Signal/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2023/09/02-19:03:13.359 277f Level-0 table #5: started
+2023/09/02-19:03:13.362 277f Level-0 table #5: 484 bytes OK
+2023/09/02-19:03:13.365 277f Delete type=0 #3
+2023/09/02-19:03:13.365 274e Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
