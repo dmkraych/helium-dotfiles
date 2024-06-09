@@ -74,9 +74,7 @@ end
 ### Aliases ###
 alias clear='echo -en "\x1b[2J\x1b[1;1H" ; echo;  seq 1 (tput cols) | sort -R | spark | lolcat' # Cute Spark animation on clear
 
-alias config='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME' # Alias defining for use with dotfiles
-
-alias ls='exa -al --color=always --group-directories-first' # my preferred listing
+alias ls='exa -l --color=always --group-directories-first' # my preferred listing
 alias lt='exa -aT --color=always --group-directories-first' # tree listing
 
 alias ..='cd ..'
