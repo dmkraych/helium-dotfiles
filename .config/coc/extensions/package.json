@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "coc-prettier": ">=9.3.2",
-    "coc-eslint": ">=1.6.0"
-  },
-  "lastUpdate": 1696187346301
-}
